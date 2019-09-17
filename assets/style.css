@@ -1,0 +1,30 @@
+h1 {
+  color: #131313;
+  letter-spacing: .15em;
+  text-shadow: -2px 4px 1px #767474, -3px 6px 1px #787777, -4px 8px 1px #7b7a7a, -5px 10px 1px #7f7d7d, -6px 12px 1px #828181, -7px 14px 1px #868585, -8px 16px 1px #8b8a89;
+  color: #131313;
+  font-size:50px;
+  text-align: center;
+}
+h2{
+  font-family: 'Julius Sans One', sans-serif;
+  text-align: center;
+}
+p {
+  font-family: 'Cardo', serif;
+  text-align: center;
+}
+h3 {
+  font-family: 'Julius Sans One', sans-serif;
+  text-align: center;
+}
+
+hr{
+  color: black;
+  border: solid;
+}
+.bodyMain {
+  padding:150px;
+  margin-top:-90px;
+
+}
